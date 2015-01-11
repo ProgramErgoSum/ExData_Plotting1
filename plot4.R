@@ -2,7 +2,7 @@
 # Project 1 - Reconstruct Plot 3 of two day household energy usage 
 # 
 # USAGE on command line:
-#   Rscript plot3.R
+#   Rscript plot4.R
 #
 # Note: Path to data and PNG files are hard-coded
 # --------------------------------------------------------------------------------------------------
